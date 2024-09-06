@@ -1,4 +1,2 @@
 # demo
-멋사 git 특강
-hello
-hahaha this is test
+feature/b 기능 추가
