@@ -1,3 +1,5 @@
-# demo
-feature/a 기능 추가
-feature/b 기능 추가
+# 24.9.6
+git 사용법 특강
+- git merge, pull, push, commin -m, checkout, branch
+
+대충 검색으로만 쓰다가 직접 제대로 사용해보니까 느낌이 새로웠고 git에 대한 이해도가 강사님 덕분에 많이 올라가고 현업에서 어떠한 방식으로 사용하는지 알아서 좋은 시간이었고 실습시간에도 좋은 팀원 분들 만나서 잘 해서 좋았다.
